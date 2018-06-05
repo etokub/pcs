@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons">
+            <g id="icon-relabeling" transform="translate(14.000000, 14.000000)">
+                <rect id="Rectangle-8" fill="#F6776E" opacity="0.5" x="0.275390625" y="36.34375" width="25.4990234" height="22.8183594" rx="2"/>
+                <path d="M29,18 L29,22 C29,24 34,28 34,30 L34,60 C34,61.104 33.104,62 32,62 L6,62 C4.896,62 4,61.104 4,60 L4,30 C4,28 9,24 9,22 L9,18" id="Stroke-1" stroke="#222829" stroke-width="2" stroke-linejoin="round"/>
+                <path d="M32,17 C32,17.553 31.553,18 31,18 L7,18 C6.447,18 6,17.553 6,17 L6,13 C6,12.447 6.447,12 7,12 L31,12 C31.553,12 32,12.447 32,13 L32,17 Z" id="Stroke-3" stroke="#222829" stroke-width="2"/>
+                <path d="M9,22 L29,22" id="Stroke-5" stroke="#222829" stroke-width="2"/>
+                <path d="M11,12 L11,18" id="Stroke-7" stroke="#222829" stroke-width="2"/>
+                <path d="M15,12 L15,18" id="Stroke-9" stroke="#222829" stroke-width="2"/>
+                <path d="M23,12 L23,18" id="Stroke-11" stroke="#222829" stroke-width="2"/>
+                <path d="M19,12 L19,18" id="Stroke-13" stroke="#222829" stroke-width="2"/>
+                <path d="M27,12 L27,18" id="Stroke-15" stroke="#222829" stroke-width="2"/>
+                <polygon id="Stroke-17" stroke="#222829" stroke-width="2" points="22 42 18 42 18 38 14 38 14 42 10 42 10 46 14 46 14 50 18 50 18 46 22 46"/>
+                <polyline id="Stroke-19" stroke="#222829" stroke-width="2" points="25 32 28 32 28 56 7 56"/>
+                <path d="M4,32 L23,32" id="Stroke-21" stroke="#222829" stroke-width="2"/>
+                <path d="M32,9 L32,2 C32,0.896 32.896,0 34,0 L60,0 C61.104,0 62,0.896 62,2 L62,60 C62,61.104 61.104,62 60,62 L37,62" id="Stroke-23" stroke="#222829" stroke-width="2"/>
+                <path d="M56,9 C56,10.656 54.656,12 53,12 C51.344,12 50,10.656 50,9 C50,7.344 51.344,6 53,6 C54.656,6 56,7.344 56,9 Z" id="Stroke-25" stroke="#222829" stroke-width="2"/>
+                <path d="M56,20 C56,21.656 54.656,23 53,23 C51.344,23 50,21.656 50,20 C50,18.344 51.344,17 53,17 C54.656,17 56,18.344 56,20 Z" id="Stroke-27" stroke="#222829" stroke-width="2"/>
+                <path d="M56,31 C56,32.656 54.656,34 53,34 C51.344,34 50,32.656 50,31 C50,29.344 51.344,28 53,28 C54.656,28 56,29.344 56,31 Z" id="Stroke-29" stroke="#222829" stroke-width="2"/>
+                <path d="M56,42 C56,43.656 54.656,45 53,45 C51.344,45 50,43.656 50,42 C50,40.344 51.344,39 53,39 C54.656,39 56,40.344 56,42 Z" id="Stroke-31" stroke="#222829" stroke-width="2"/>
+                <path d="M56,53 C56,54.656 54.656,56 53,56 C51.344,56 50,54.656 50,53 C50,51.344 51.344,50 53,50 C54.656,50 56,51.344 56,53 Z" id="Stroke-33" stroke="#222829" stroke-width="2"/>
+                <path d="M44,9 C44,10.656 42.656,12 41,12 C39.344,12 38,10.656 38,9 C38,7.344 39.344,6 41,6 C42.656,6 44,7.344 44,9 Z" id="Stroke-35" stroke="#222829" stroke-width="2"/>
+                <path d="M44,20 C44,21.656 42.656,23 41,23 C39.344,23 38,21.656 38,20 C38,18.344 39.344,17 41,17 C42.656,17 44,18.344 44,20 Z" id="Stroke-37" stroke="#222829" stroke-width="2"/>
+                <path d="M44,31 C44,32.656 42.656,34 41,34 C39.344,34 38,32.656 38,31 C38,29.344 39.344,28 41,28 C42.656,28 44,29.344 44,31 Z" id="Stroke-39" stroke="#222829" stroke-width="2"/>
+                <path d="M44,42 C44,43.656 42.656,45 41,45 C39.344,45 38,43.656 38,42 C38,40.344 39.344,39 41,39 C42.656,39 44,40.344 44,42 Z" id="Stroke-41" stroke="#222829" stroke-width="2"/>
+                <path d="M44,53 C44,54.656 42.656,56 41,56 C39.344,56 38,54.656 38,53 C38,51.344 39.344,50 41,50 C42.656,50 44,51.344 44,53 Z" id="Stroke-43" stroke="#222829" stroke-width="2"/>
+            </g>
+        </g>
+    </g>
+</svg>
